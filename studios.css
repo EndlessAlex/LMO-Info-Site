@@ -1,0 +1,353 @@
+body {
+    background-color: rgb(246, 240, 252);
+    border: 7px solid black;
+    border-radius: 2%;
+
+}  h1 {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 55px;
+    color: white;
+
+}  #updated {
+   margin-left: 120px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-size: 20px;
+   top: 100px;
+   position: absolute;
+   border: 4px solid black;
+
+} #status {
+    margin-left: 1570px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-size: 20px;
+   top: 100px;
+   position: absolute;
+
+} #status1 {
+    margin-left: 1677px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    top: 100px;
+    position: absolute;
+    color: green;
+
+} #screen {
+    width: 1100px;
+    height: 120px;
+    background-color: rgb(39, 66, 97);
+    position: absolute;
+    margin-left: 400px;
+    top: 15px;
+    z-index: -1;
+    border: 4px solid black;
+    border-radius: 20%;
+
+} #welcomeheader {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: bold;
+
+} #introduction {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    font-style: italic;
+    text-decoration: underline;
+
+} #whoheader {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+
+} #introduction2 {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    
+} #gameheader {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+
+} #introduction3 {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    
+
+} #bomb {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    
+
+} #inflate {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+   
+} #updateheader {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+
+} #introduction4 {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+
+} #updates {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #teamheader {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+
+} #introduction5 {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+
+} #yupmo {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #pixxel {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #alex {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #sparks {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #alvin {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #cold {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #totalblox {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #gertisan {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #luke {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #arab {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;  
+
+} a:hover {
+    color: blueviolet;
+
+} a {
+    color: rgb(49, 104, 155);
+
+} #socialsheader {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+
+} a {
+    text-decoration: none;
+
+}  #introduction6 {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+
+} img {
+    width: 250px;
+    height: 250px;
+    margin-left: 1300px;
+    border: 5px solid black;
+
+} #merchandiseheader {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+
+} #introduction7 {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+
+} #currentmerch {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #nav1 {
+  top: 250px;
+  position: absolute;
+  margin-left: 120px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  border: 5px solid black;
+  padding: 20px;
+  border-radius: 25%;
+
+} #nav2 {
+    top: 350px;
+    position: absolute;
+    margin-left: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 25%;
+
+} #nav3 {
+    top: 450px;
+    position: absolute;
+    margin-left: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 25%;
+
+} #nav4 {
+    top: 550px;
+    position: absolute;
+    margin-left: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 25%;
+
+} #nav5 {
+    top: 650px;
+    position: absolute;
+    margin-left: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 25%;
+
+} #nav6 {
+    top: 750px;
+    position: absolute;
+    margin-left: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 25%;
+
+} #nav7 {
+    top: 850px;
+    position: absolute;
+    margin-left: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 25%;
+
+} #lmologo {
+    position: absolute;
+    border: none;
+    margin-left: 625px;
+    top: 320px;
+    height: 500px;
+    width: 500px;
+
+} #partnerheader {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+
+} #introduction8 {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+
+} #currentpartner {
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+} #nav8 {
+    top: 950px;
+    position: absolute;
+    margin-left: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 25%;
+
+}
