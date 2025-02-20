@@ -350,4 +350,20 @@ body {
     padding: 20px;
     border-radius: 25%;
 
+} #gamestatus {
+    position: absolute;
+    margin-left: 540px;
+    top: 870px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+    border: 2px solid black;
+
+} #goodtogo {
+    position: absolute;
+    margin-left: 740px;
+    top: 870px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+    color: green;
+    text-decoration: underline;
 }
