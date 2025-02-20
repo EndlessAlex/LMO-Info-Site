@@ -351,19 +351,16 @@ body {
     border-radius: 25%;
 
 } #gamestatus {
-    position: absolute;
-    margin-left: 540px;
-    top: 870px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 27px;
-    border: 2px solid black;
+    font-weight: bolder;
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
 
 } #goodtogo {
-    position: absolute;
-    margin-left: 740px;
-    top: 870px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 27px;
+    font-weight: bolder;
+    margin-left: 1300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
     color: green;
     text-decoration: underline;
 }
